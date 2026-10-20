@@ -437,3 +437,6 @@ if __name__ == "__main__":
     window = tk.Tk()
     app = QuizApp(window)
     window.mainloop()
+
+
+
